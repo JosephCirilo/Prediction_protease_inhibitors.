@@ -1,0 +1,48 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-01-21T15:59:29Z
+HETATM    1 CL1  UNK     0      -5.666   5.749  -2.294  1.00  0.00          CL  
+HETATM    2  S2  UNK     0       0.178   2.526  -1.502  1.00  0.00           S  
+HETATM    3  N8  UNK     0      -0.763   5.033   0.153  1.00  0.00           N  
+HETATM    4  N9  UNK     0       1.143   3.303  -0.227  1.00  0.00           N  
+HETATM    5  C11 UNK     0      -1.462   3.410  -1.751  1.00  0.00           C  
+HETATM    6  C12 UNK     0      -1.773   4.583  -0.891  1.00  0.00           C  
+HETATM    7  C13 UNK     0      -3.738   3.673  -2.953  1.00  0.00           C  
+HETATM    8  C14 UNK     0      -2.439   2.948  -2.785  1.00  0.00           C  
+HETATM    9  C15 UNK     0      -3.070   5.309  -1.055  1.00  0.00           C  
+HETATM   10  C16 UNK     0      -4.054   4.852  -2.087  1.00  0.00           C  
+HETATM   11  C17 UNK     0       0.577   4.420   0.426  1.00  0.00           C  
+HETATM   12  H18 UNK     0      -1.038   5.875   0.754  1.00  0.00           H  
+HETATM   13  S3  UNK     0      -4.981   3.097  -4.252  1.00  0.00           S  
+HETATM   14  O7  UNK     0      -5.379   4.295  -5.160  1.00  0.00           O  
+HETATM   15  O6  UNK     0      -6.260   2.558  -3.549  1.00  0.00           O  
+HETATM   16  N10 UNK     0      -4.254   1.819  -5.237  1.00  0.00           N  
+HETATM   17  H19 UNK     0      -3.791   1.096  -4.599  1.00  0.00           H  
+HETATM   18  H20 UNK     0      -3.518   2.244  -5.887  1.00  0.00           H  
+HETATM   19  O5  UNK     0      -0.100   1.049  -1.098  1.00  0.00           O  
+HETATM   20  H8  UNK     0       0.771   0.628  -0.690  1.00  0.00           H  
+HETATM   21  O4  UNK     0       0.984   2.531  -2.832  1.00  0.00           O  
+HETATM   22  H7  UNK     0       0.401   2.958  -3.594  1.00  0.00           H  
+TER      23      UNK     0 
+CONECT    1   10
+CONECT    2    4    5   19   21
+CONECT    3    6   11   12
+CONECT    4    2   11
+CONECT    5    2    6    8
+CONECT    6    3    5    9
+CONECT    7    8   10   13
+CONECT    8    5    7
+CONECT    9    6   10
+CONECT   10    1    7    9
+CONECT   11    3    4
+CONECT   12    3
+CONECT   13    7   14   15   16
+CONECT   14   13
+CONECT   15   13
+CONECT   16   13   17   18
+CONECT   17   16
+CONECT   18   16
+CONECT   19    2   20
+CONECT   20   19
+CONECT   21    2   22
+CONECT   22   21
+END

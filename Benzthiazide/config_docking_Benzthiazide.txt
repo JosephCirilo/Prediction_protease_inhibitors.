@@ -1,0 +1,10 @@
+receptor = /content/drive/MyDrive/docking/agemmatalis.pdbqt
+ligand = /content/drive/MyDrive/docking/Benzthiazide.pdbqt
+center_x = -3.528
+center_y = 2.944
+center_z = 0.0
+size_x = 66
+size_y = 66
+size_z = 96
+out = result_docking_Benzthiazide.pdbqt
+exhaustiveness = 96

@@ -1,0 +1,60 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-01-21T17:03:36Z
+HETATM    1  S1  UNK     0      -3.271   4.800   0.091  1.00  0.00           S  
+HETATM    2  O2  UNK     0      -1.823   4.437   0.049  1.00  0.00           O  
+HETATM    3  O3  UNK     0      -3.974   3.844   0.999  1.00  0.00           O  
+HETATM    4  N6  UNK     0      -3.935   4.708  -1.475  1.00  0.00           N  
+HETATM    5  H25 UNK     0      -3.382   4.020  -2.081  1.00  0.00           H  
+HETATM    6  C10 UNK     0      -5.360   4.208  -1.259  1.00  0.00           C  
+HETATM    7  C15 UNK     0      -5.571   2.866  -2.045  1.00  0.00           C  
+HETATM    8  O5  UNK     0      -5.015   2.686  -3.156  1.00  0.00           O  
+HETATM    9  O4  UNK     0      -6.395   1.859  -1.497  1.00  0.00           O  
+HETATM   10  H24 UNK     0      -6.113   0.925  -1.886  1.00  0.00           H  
+HETATM   11  C11 UNK     0      -6.396   5.298  -1.789  1.00  0.00           C  
+HETATM   12  C12 UNK     0      -5.617   6.522  -2.447  1.00  0.00           C  
+HETATM   13  C13 UNK     0      -5.558   6.368  -4.024  1.00  0.00           C  
+HETATM   14  N7  UNK     0      -4.201   5.836  -4.458  1.00  0.00           N  
+HETATM   15  C22 UNK     0      -3.257   6.708  -4.865  1.00  0.00           C  
+HETATM   16  N8  UNK     0      -1.969   6.236  -5.277  1.00  0.00           N  
+HETATM   17  N9  UNK     0      -3.545   8.111  -4.881  1.00  0.00           N  
+HETATM   18  H26 UNK     0      -1.754   5.187  -5.264  1.00  0.00           H  
+HETATM   19  H27 UNK     0      -1.223   6.932  -5.599  1.00  0.00           H  
+HETATM   20  H28 UNK     0      -4.507   8.463  -4.571  1.00  0.00           H  
+HETATM   21  H29 UNK     0      -2.799   8.807  -5.203  1.00  0.00           H  
+HETATM   22  C14 UNK     0      -3.463   6.490   0.726  1.00  0.00           C  
+HETATM   23  C16 UNK     0      -2.489   7.497   0.400  1.00  0.00           C  
+HETATM   24  C19 UNK     0      -2.640   8.834   0.908  1.00  0.00           C  
+HETATM   25  C18 UNK     0      -3.767   9.163   1.740  1.00  0.00           C  
+HETATM   26  C21 UNK     0      -3.931  10.618   2.297  1.00  0.00           C  
+HETATM   27  C20 UNK     0      -4.740   8.157   2.064  1.00  0.00           C  
+HETATM   28  C17 UNK     0      -4.589   6.820   1.556  1.00  0.00           C  
+TER      29      UNK     0 
+CONECT    1    2    3    4   22
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1    5    6
+CONECT    5    4
+CONECT    6    4    7   11
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10
+CONECT   10    9
+CONECT   11    6   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16   17
+CONECT   16   15   18   19
+CONECT   17   15   20   21
+CONECT   18   16
+CONECT   19   16
+CONECT   20   17
+CONECT   21   17
+CONECT   22    1   23   28
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26   27
+CONECT   26   25
+CONECT   27   25   28
+CONECT   28   22   27
+END

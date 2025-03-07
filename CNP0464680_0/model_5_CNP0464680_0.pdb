@@ -1,0 +1,40 @@
+REMARK   BIOVIA PDB file
+REMARK   Created:  2025-01-22T10:52:54Z
+HETATM    1  N1  UNK     0      -2.863 -11.101  -0.475  1.00  0.00           N  
+HETATM    2  C6  UNK     0      -3.380 -10.135  -1.289  1.00  0.00           C  
+HETATM    3  C4  UNK     0      -3.589 -11.658   0.763  1.00  0.00           C  
+HETATM    4  C3  UNK     0      -4.189 -13.076   0.395  1.00  0.00           C  
+HETATM    5  C8  UNK     0      -4.588 -13.356  -0.969  1.00  0.00           C  
+HETATM    6  C12 UNK     0      -5.136 -14.652  -1.316  1.00  0.00           C  
+HETATM    7  C13 UNK     0      -5.284 -15.670  -0.296  1.00  0.00           C  
+HETATM    8  C11 UNK     0      -4.886 -15.390   1.069  1.00  0.00           C  
+HETATM    9  C7  UNK     0      -4.336 -14.094   1.415  1.00  0.00           C  
+HETATM   10  N2  UNK     0      -2.599  -9.699  -2.419  1.00  0.00           N  
+HETATM   11  H18 UNK     0      -3.082  -9.248  -3.261  1.00  0.00           H  
+HETATM   12  H17 UNK     0      -1.536  -9.824  -2.416  1.00  0.00           H  
+HETATM   13  C5  UNK     0      -4.770  -9.490  -1.061  1.00  0.00           C  
+HETATM   14  C9  UNK     0      -5.909  -9.989  -1.805  1.00  0.00           C  
+HETATM   15  C14 UNK     0      -7.218  -9.397  -1.615  1.00  0.00           C  
+HETATM   16  C16 UNK     0      -7.391  -8.304  -0.679  1.00  0.00           C  
+HETATM   17  C15 UNK     0      -6.253  -7.803   0.066  1.00  0.00           C  
+HETATM   18  C10 UNK     0      -4.944  -8.395  -0.127  1.00  0.00           C  
+TER      19      UNK     0 
+CONECT    1    2    3
+CONECT    2    1   10   13
+CONECT    3    1    4
+CONECT    4    3    5    9
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    4    8
+CONECT   10    2   11   12
+CONECT   11   10
+CONECT   12   10
+CONECT   13    2   14   18
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   13   17
+END
